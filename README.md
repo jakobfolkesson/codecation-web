@@ -1,2 +1,1 @@
-# codecation-web
-Codecation web project
+Codecation web
